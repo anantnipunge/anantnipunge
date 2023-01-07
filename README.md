@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anantnipunge
 - 👀 I’m interested in development
 - 🌱 I’m currently learning backend development
-- 💞️ I’m looking to collaborate on open source projects (frontend + backend)
+- 💞️ I’m looking to collaborate on open source projects and internships (frontend + backend)
 - 📫 How to reach me linkedin ID: https://www.linkedin.com/in/anant-nipunge-717998206/
 
 <!---
