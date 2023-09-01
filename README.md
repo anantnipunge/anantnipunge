@@ -5,6 +5,7 @@
 <h1 align="center">Hey 👋, I'm Anant Nipunge</h1>
 <h3 align="center">A passionate Full-Stack MERN and Flutter Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anantnipunge&label=Profile%20views&color=0e75b6&style=flat" alt="anantnipunge" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://twitter.com/NipungeAnant" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="anantnipunge"  </p>
   
 - 👀 I’m interested in development
