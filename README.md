@@ -1,4 +1,4 @@
-https://lottiefiles.com/animations/programmer-cfyejZCKW7
+[https://lottiefiles.com/animations/programmer-cfyejZCKW7]
 - 👋 Hi, I’m @anantnipunge
 - 👀 I’m interested in development
 - 🌱 I’m currently learning Augmented Reality development
