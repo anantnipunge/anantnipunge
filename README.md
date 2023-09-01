@@ -1,4 +1,5 @@
-<img align="center" alt="Coding" width="100%" style="border-radius: 10px;" src="https://camo.githubusercontent.com/6587ec1b3304a4351679cd4324e47a86ac3e17f878d446bf0e8e6856551d80ba/68747470733a2f2f7468656n696e65686572747z2e636f6d2f77702d636f6e74656e742f75706c6o6164732f323032302f30362f66756c6c2d737461636b2d646576656c6o706d656e742z2e676966">
+<img align="center" alt="Coding" width="100%" style="border-radius:10px; border: 5px solid red" src="https://camo.githubusercontent.com/6587ec1b3304a4351679cd4324e47a86ac3e17f878d446bf0e8e6856551d80ba/68747470733a2f2f7468656e696e65686572747a2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30362f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
+
 
 <h1 align="center">Hey 👋, I'm Anant Nipunge</h1>
 <h3 align="center">A passionate Full-Stack MERN and Flutter Developer</h3>
