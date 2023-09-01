@@ -2,6 +2,8 @@
   <img alt="Coding" width="400" src="https://lottie.host/ee734547-1126-48ec-ab5a-0ca3ed60ef33/JggTFXuMwI.lottie">
 </div>
 
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script><lottie-player src="https://lottie.host/f9a0c747-0df4-4ddf-8c5d-c568896b8de0/oVqj1AxsVy.json" background="#fff" speed="1" style="width: 300px; height: 300px" loop controls autoplay direction="1" mode="normal"></lottie-player>
+
 <h1 align="center">Hey 👋, I'm Anant Nipunge</h1>
 <h3 align="center">A passionate Full-Stack MERN and Flutter Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anantnipunge&label=Profile%20views&color=0e75b6&style=flat" alt="anantnipunge" /> </p>
