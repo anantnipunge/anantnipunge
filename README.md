@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anantnipunge&label=Profile%20views&color=0e75b6&style=flat" alt="anantnipunge" /> </p>
 
-<p align="left"> <a href="https://twitter.com/NipungeAnant" target="blank"><img src="https://img.shields.io/twitter/follow/NipungeAnant?logo=twitter&style=for-the-badge" alt="anantnipunge"  </p>
+<p align="left"> <a href="https://twitter.com/NipungeAnant" target="blank"><img src="https://img.shields.io/linkedin/follow/NipungeAnant?logo=linkedin&style=for-the-badge" alt="anantnipunge"  </p>
 
 - 👀 I’m interested in development
   
