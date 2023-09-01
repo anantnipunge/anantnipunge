@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://lottie.host/9a44445a-cddf-4c0a-aa77-194c201baa63/KGSJe6wWRu.lottie"></img>
-</div>
+![](https://lottie.host/9a44445a-cddf-4c0a-aa77-194c201baa63/KGSJe6wWRu.lottie)
 
 - 👋 Hi, I’m @anantnipunge
 - 👀 I’m interested in development
