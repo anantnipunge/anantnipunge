@@ -97,5 +97,7 @@ Illustration by <a href="https://icons8.com/illustrations/author/HxMFjfKZdNq2">R
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anantnipunge&&theme=tokyonight" alt="anantnipunge" /></p>
 <h3 align="left">Achievements: </h3>
 - Hacktoberfest 2022 winner
+
 [![An image of @541's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/541)](https://holopin.io/@541)
+
 - Top contriutor of Drfty (Open source file downloading system built on java) #40
