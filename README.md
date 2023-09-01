@@ -1,4 +1,4 @@
-![Coding is fun]([http://url/to/img.png](https://lottiefiles.com/animations/programmer-cfyejZCKW7))
+![]([http://url/to/img.png](https://lottiefiles.com/animations/programmer-cfyejZCKW7))
 - 👋 Hi, I’m @anantnipunge
 - 👀 I’m interested in development
 - 🌱 I’m currently learning Augmented Reality development
