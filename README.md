@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://lottiefiles.com/animations/programmer-cfyejZCKW7)" width="100"/>
+  <img src="https://lottiefiles.com/animations/programmer-cfyejZCKW7" width="100"/>
 </div>
+
 - 👋 Hi, I’m @anantnipunge
 - 👀 I’m interested in development
 - 🌱 I’m currently learning Augmented Reality development
