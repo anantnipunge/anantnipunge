@@ -23,7 +23,6 @@
   <a href="https://www.youtube.com/channel/UCIz9Z9e8xB_7G7_5mRwxJ4Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anantnipunge" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
-        <p align="left"> 
         ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
         ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
         ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -51,8 +50,6 @@
         ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
         ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
         ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-        ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-        </p>
                     
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anantnipunge&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="anantnipunge" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anantnipunge&show_icons=true&locale=en&theme=tokyonight" alt="anantnipunge" /></p>
