@@ -93,6 +93,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anantnipunge&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="anantnipunge" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anantnipunge&show_icons=true&locale=en&theme=tokyonight" alt="anantnipunge" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anantnipunge&&theme=tokyonight" alt="anantnipunge" /></p>
-<h3 align="left">Hacktoberfest 2022 winner</h3>
+<h3 align="left">Achievements: </h3>
+Hacktoberfest 2022 winner
 
 [![An image of @541's Holopin badges, which is a link to view my full Holopin profile](https://holopin.me/541)](https://holopin.io/@541)
