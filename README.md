@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://lottiefiles.com/animations/programmer-cfyejZCKW7" width="100"/>
+  <img src="https://lottie.host/?file=178af33a-ef68-45bf-92d8-f77efa8f9327/bLkYsIF4OY.json" width="100"/>
 </div>
 
 - 👋 Hi, I’m @anantnipunge
