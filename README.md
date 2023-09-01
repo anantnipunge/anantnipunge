@@ -1,5 +1,6 @@
-![](https://lottie.host/9a44445a-cddf-4c0a-aa77-194c201baa63/KGSJe6wWRu.lottie)
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 - 👋 Hi, I’m @anantnipunge
 - 👀 I’m interested in development
 - 🌱 I’m currently learning Augmented Reality development
