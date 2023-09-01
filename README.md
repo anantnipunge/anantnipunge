@@ -1,6 +1,5 @@
 <div id="header" align="center" height="100px">
-  <img alt="Coding" width="400" src="https://lottie.host/ee734547-1126-48ec-ab5a-0ca3ed60ef33/JggTFXuMwI.lottie">
-  <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script><lottie-player src="https://lottie.host/f9a0c747-0df4-4ddf-8c5d-c568896b8de0/oVqj1AxsVy.json" background="#fff" speed="1" style="width: 300px; height: 300px" loop controls autoplay direction="1" mode="normal"></lottie-player>
+  <img alt="Coding" width="400" src="[https://lottie.host/ee734547-1126-48ec-ab5a-0ca3ed60ef33/JggTFXuMwI.lottie](https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0)">
 </div>
 
 
