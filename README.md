@@ -1,10 +1,5 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-    <div id="badges">
-    <p align="left"> <a href="https://twitter.com/NipungeAnant" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="anantnipunge"  </p>
-    <p align="left"> <a href="https://twitter.com/NipungeAnant" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="anantnipunge"  </p>
-    <p align="left"> <a href="https://twitter.com/NipungeAnant" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="anantnipunge"  </p>
-  </div>
 </div>
 
 <h1 align="center">Hey 👋, I'm Anant Nipunge</h1>
