@@ -1,10 +1,9 @@
 <div id="header" align="center" height="100px">
-  <img src="https://media2.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47asib44yajp9uqevi1syv9xjniudhh5dtit63no0n&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
+  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 
 <h1 align="center">Hey 👋, I'm Anant Nipunge</h1>
 <h3 align="center">A passionate Full-Stack MERN and Flutter Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anantnipunge&label=Profile%20views&color=0e75b6&style=flat" alt="anantnipunge" /> </p>
 <p align="left"> <a href="https://twitter.com/NipungeAnant" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="anantnipunge"  </p>
   
