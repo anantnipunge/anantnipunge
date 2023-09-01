@@ -1,5 +1,5 @@
 <div id="header" align="center" height="100px">
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 
 <h1 align="center">Hey 👋, I'm Anant Nipunge</h1>
