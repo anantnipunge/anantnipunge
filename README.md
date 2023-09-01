@@ -96,7 +96,10 @@
 
 <h3 align="left">Achievements: </h3>
 - Hacktoberfest 2022 winner
+
 [![An image of @541's Holopin badges, which is a link to view my full Holopin profile](https://holopin.me/541)](https://holopin.io/@541)
+
 - Top contriutor of Drfty
+  
 [![My contribution](https://camo.githubusercontent.com/1c3d1350f75de8429ca0ab26eeedd04ed862ec9786a30916295c3ab10395ee26/68747470733a2f2f636f6e747269622e726f636b732f696d6167653f7265706f3d5361707461727368695361726b617231322f447269667479)
 
