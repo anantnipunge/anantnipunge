@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://lottie.host/?file=178af33a-ef68-45bf-92d8-f77efa8f9327/bLkYsIF4OY.json" width="100"/>
+  <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script><lottie-player src="https://lottie.host/178af33a-ef68-45bf-92d8-f77efa8f9327/bLkYsIF4OY.json" background="#FFFFFF" speed="1" style="width: 300px; height: 300px" loop controls autoplay direction="1" mode="normal"></lottie-player>
 </div>
 
 - 👋 Hi, I’m @anantnipunge
