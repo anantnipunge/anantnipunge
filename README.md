@@ -100,13 +100,7 @@
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
                     alt="redux" width="40" height="40" /> </a> <a href="https://tailwindcss.com/" target="_blank"
                 rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-                    alt="tailwind" width="40" height="40" /> </a> <a href="https://www.tensorflow.org" target="_blank"
-                rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
-                    alt="tensorflow" width="40" height="40" /> </a> <a href="https://unity.com/" target="_blank"
-                rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity"
-                    width="40" height="40" /> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"
-                rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40"
-                    height="40" /> </a> </p>
+                    alt="tailwind" width="40" height="40" /> </a> </p>
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=anantnipunge&&theme=xcode)](https://github.com/anantnipunge)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
