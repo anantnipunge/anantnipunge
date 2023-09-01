@@ -9,15 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
 
-- 🔭 I’m currently working on **Vexa Web App**
-
-- 🌱 I’m currently learning **DevOps**
-
-- 💬 Ask me about **Android , MEARN**
-
-- 📫 How to reach me **rishavchanda0@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
+- 👀 I’m interested in development
+  
+- 🌱 I’m currently learning Augmented Reality development
+  
+- 💞️ I’m looking to collaborate on open source projects and internships (frontend + backend)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,11 +33,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
-- 👋 Hi, I’m @anantnipunge
-- 👀 I’m interested in development
-- 🌱 I’m currently learning Augmented Reality development
-- 💞️ I’m looking to collaborate on open source projects and internships (frontend + backend)
-- 📫 How to reach me linkedin ID: https://www.linkedin.com/in/anant-nipunge-717998206/
 
 
 hacktoberfest 2022 winner 
