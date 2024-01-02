@@ -25,6 +25,7 @@
   <a href="https://www.youtube.com/channel/UCIz9Z9e8xB_7G7_5mRwxJ4Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anantnipunge" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
+
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
